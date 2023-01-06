@@ -202,6 +202,7 @@ header::after {
 
 .depends_img img {
     width: 100%;
+    height: 477px;
 }
 
 /* depends style end */
